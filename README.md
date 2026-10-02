@@ -1,50 +1,53 @@
 <div align="center">
 
-<img src="assets/icon.png" width="64" alt="海投150">
+# 我把150个招呼发满<br>1小时后来了面试邀请
 
-# BOSS一天150个招呼<br>交给电脑发满
-
-<img src="assets/demo.gif" width="480" alt="海投150在BOSS网页上一家家打招呼，7分钟发了40个，到数自己停，发过的公司导出成一张表">
+<img src="assets/demo.gif" width="540" alt="海投150在BOSS网页上一家家打招呼，7分钟发了40个，到数自己停，发过的公司导出成一张表">
 
 </div>
 
-## 你只管填两样，点开始
+> 9月29号那天150个发满，一小时后手机上是：1个面试邀请，3个HR要简历，1个说先帮我做简历推荐，2个问是不是全职，五六个说不合适。
 
-搜索词填想投的方向，月薪下限填能接受的最低数，点「开始」。它就在你登录好的BOSS网页上一家家发，你拿手机回HR的消息就行。
+## 跟手点、AI投简历比，差在哪
 
-- 发到你设的数就停，BOSS弹安全验证也停，你手动过完点「继续」接着发
-- 岗位名里要有什么、不要什么（比如不要销售、客服），要不要实习岗，都能设
-- 每家隔多久你来定，默认20到40秒，调到5到10秒就是上面7分钟40个的速度
-- 发过哪几家，点「导出记录」存成一张表，Excel直接打开
+<img src="assets/compare.png" width="480" alt="对比：海投150一天150个发满、7分钟40个，不用配AI key，不会跑一半没余额，你回HR消息就行；手点发不满150，要一家家点；AI投简历要配key、看余额，会跑一半没余额">
 
-> 没人回，很多时候只是发得少。9月29号我把150个招呼发满，**一小时后回来1个面试邀请、3个HR要简历**。
+
+- **填两样就开始**：搜索词和月薪下限，点「开始」
+- **到数自己停**：BOSS弹验证也停，过完点「继续」接着发
+- **只投你要的**：岗位名要有什么、不要什么，要不要实习岗，都能设
+- **快慢你定**：默认每家隔20到40秒，调到5到10秒就是7分钟40个
+- **发过哪几家**：点「导出记录」存成表，Excel直接打开
 
 ## 三步装好
 
-1. 付款后下载zip，收据邮件里也有下载链接
-2. 解压，得到「海投150」文件夹，放到不会被删的地方，比如「文档」
-3. Chrome地址栏输入`chrome://extensions`，打开右上角「开发者模式」，点「加载已解压的扩展程序」，选这个文件夹
+![Chrome](https://img.shields.io/badge/Chrome-141414?style=flat-square) ![Edge](https://img.shields.io/badge/Edge-141414?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-141414?style=flat-square) ![macOS](https://img.shields.io/badge/macOS-141414?style=flat-square)
 
-<img src="assets/install.png" width="680" alt="Chrome扩展程序页：先打开开发者模式，再点加载已解压的扩展程序，选海投150文件夹，出现海投150卡片就装好了">
+### 1. 付款后下载zip
 
-装好后点浏览器右上角的拼图图标，再点海投150，它会打开BOSS职位页，登录后右下角就是面板。Edge也能装，地址栏换成`edge://extensions`。
+收据邮件里也有下载链接。
+
+<img src="assets/step1.png" width="480" alt="浏览器下载列表里出现海投150.zip，26KB，已完成">
+
+### 2. 解压，把「海投150」文件夹放进「文档」
+
+<img src="assets/step2.png" width="480" alt="双击zip解压，打开解压出的文件夹，里面的海投150文件夹就是插件，放进文档别删">
+
+### 3. 在Chrome里加载这个文件夹
+
+地址栏输入`chrome://extensions`，打开「开发者模式」，点「加载已解压的扩展程序」，选「海投150」文件夹。Edge输入`edge://extensions`，步骤一样。
+
+<img src="assets/step3.gif" width="480" alt="动图：先打开开发者模式，再点加载已解压的扩展程序，选海投150文件夹点选择，出现海投150卡片就装好了">
+
+装好后点浏览器右上角的拼图图标，再点海投150，它会打开BOSS职位页，登录后右下角就是面板。
 
 ## 常见问题
 
-**会不会封号？**<br>
-它就在你自己打开的BOSS网页上替你点按钮，和你手点是同一个页面、差不多的快慢。BOSS直聘的用户协议禁止用这类工具，风险你自己掂量。
+**会不会封号？** BOSS协议禁止这类工具，风险你自己掂量。它在你自己的网页上按手点的快慢点，碰到验证就停。
 
-**要AI吗，要充值吗？**<br>
-都不用，也不用配key。买断之后发多少都不再花钱。
+**手机能用吗？** 要电脑。手机上可以先买，回电脑打开收据邮件下载。
 
-**手机能用吗？**<br>
-要电脑，Windows、Mac上的Chrome或Edge都行。手机上可以先买，回电脑打开收据邮件下载。
-
-**一天能发多少？**<br>
-BOSS一天给150个招呼的额度，海投150帮你发满。想少发，把面板上的「今天最多」改小。
-
-**装不上、发不出去怎么办？**<br>
-[开个issue](https://github.com/droid-1-wq/haitou150/issues/new)，贴一张面板截图。
+**装不上、发不出去？** [开个issue](https://github.com/droid-1-wq/haitou150/issues/new)，贴一张面板截图。
 
 <div align="center">
 
@@ -52,6 +55,6 @@ BOSS一天给150个招呼的额度，海投150帮你发满。想少发，把面�
 
 今天装上，今天的150个招呼就能发出去。
 
-<a href="https://buy.nxsio.com/checkout/buy/b89e4f18-0f88-453f-be31-820e66b46401?checkout[custom][s]=gh-readme"><img src="assets/buy.png" width="300" alt="3.99美元买断（约29元）"></a>
+<a href="https://buy.nxsio.com/checkout/buy/b89e4f18-0f88-453f-be31-820e66b46401?checkout[custom][s]=gh-readme"><img src="assets/buy.png" width="480" alt="3.99美元买断（约29元），一次付清，不是订阅，付款后下载zip，立即购买"></a>
 
 </div>
