@@ -21,7 +21,7 @@
 
 ## 三步装好
 
-![Chrome](https://img.shields.io/badge/Chrome-141414?style=flat-square) ![Edge](https://img.shields.io/badge/Edge-141414?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-141414?style=flat-square) ![macOS](https://img.shields.io/badge/macOS-141414?style=flat-square)
+![Chrome](https://img.shields.io/badge/Chrome-FFD23F?style=flat-square) ![Edge](https://img.shields.io/badge/Edge-FFD23F?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-FFD23F?style=flat-square) ![macOS](https://img.shields.io/badge/macOS-FFD23F?style=flat-square)
 
 ### 1. 付款后下载zip
 
